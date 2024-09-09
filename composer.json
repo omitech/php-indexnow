@@ -1,4 +1,5 @@
 {
+    "version": "1.0.0",
     "name": "nemorize/indexnow",
     "description": "PHP library for submitting website URLs using IndexNow to search engines.",
     "type": "library",
